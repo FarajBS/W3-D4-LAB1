@@ -3,6 +3,13 @@
     background-color: #666;
 }
 
-.table {
-    
+.tableCss {
+    width: 50%;
+    height: 15vh;
+    text-align: center;
+    color: blue;
+}
+
+.tableCss .row {
+    border: #333 solid 5px;
 }
